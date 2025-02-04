@@ -1,0 +1,37 @@
+.auto__doc_page_webpack_doc_page_blur_promo {
+    display:none !important;
+}
+
+.text_layer {
+    text-shadow: none !important;
+    color: black !important;
+}
+
+.newpage span.a {
+    color: black !important;
+    z-index: 9999 !important;
+}
+
+img {
+    opacity: 1 !important;
+}
+
+._140Ouo, .between_page_portal_root, .fs-sticky-footer, 
+._3DzOla, .e6sw05, ._3rWATl, .promo_div, .DropdownMenu .main-menu,
+._2ad0sf, ._38oNc9, ._2GzXCZ, .AdBlockerModal-module_wrapper__A8Vio  {
+    display: none!important;
+    z-index: -999!important;
+    opacity: 0!important;
+}
+
+._2kkM6y {
+    padding-top: 0!important;
+}
+
+.outer_page.blurred_page {
+    user-select: all!important;
+}
+
+.blurred_page * {
+    color: black!important;
+}
