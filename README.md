@@ -2,11 +2,11 @@
 
 ## Description
 
-This Chrome extension allows you to remove the blur effect from documents on the Scribd website, providing a clearer view of the content.
+This Firefox addon allows you to remove the blur effect from documents on the Scribd website, providing a clearer view of the content.
 
 ## Features
 
-* **Remove Blur:** The extension will automatically remove the blur effect from Scribd documents.
+* **Remove Blur:** The addon will automatically remove the blur effect from Scribd documents.
 * **Block Ads:** Enjoy uninterrupted reading with no disruptive advertisements.
 
 ## Usage
