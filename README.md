@@ -1,4 +1,4 @@
-# Scribd Blur Remover Chrome Extension - SCUnblur
+# Scribd Blur Remover Firefox Addon - SCUnblur
 
 ## Description
 
